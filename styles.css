@@ -1,0 +1,38 @@
+body
+{
+    margin:20px;
+    text-align:center;
+
+}
+.small
+{
+    width:150px;
+    border-radius: 3%;
+    
+}
+.card
+{
+    margin-left:auto;
+    border-bottom:4px solid rgb(109, 34, 34);
+    margin-right:auto;
+    width:400px;
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+    background:pink;
+    color: #2b2839;
+    
+    border-radius: 5%;
+}
+   
+
+
+
+.flx{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.border-pink{
+    margin-left: 40px;
+}
